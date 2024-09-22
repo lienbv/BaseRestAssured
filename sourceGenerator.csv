@@ -1,0 +1,20 @@
+Summary,Story ID,Sprint,TC ID,Test Step
+Create user in normal case,STORY-001,NoneSprint,TC-001t,"1. Login system
+2. Create user in normal case"
+Create user with the fullName is invalid,STORY-001,NoneSprint,TC-002t,"1. Login system
+2. Create user with the fullName is invalid
+2.1. fullName is null
+2.2. fullName is blank
+2.3. fullName exceed 100 in length"
+Create user with the birthDay is invalid,STORY-001,NoneSprint,TC-003t,"1. Login system
+2. Create user with the birthDay is invalid fghjklkds kdsksdks  fdfđfdfd   
+2.1. birthDay is null
+2.2. birthDay is blank
+2.3. birthDay wrong format"
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
